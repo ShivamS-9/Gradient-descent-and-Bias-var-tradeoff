@@ -1,6 +1,6 @@
 # Gradient descent and Bias variance tradeoff
 
-This repository contains the work done for **Machine, Data and Learning** as part of the coursework. The tasks involve applying machine learning concepts such as **Gradient Descent**, **Bias-Variance Tradeoff**, **Model Complexity**, and **Irreducible Error** on a dataset.
+> This repository contains the work done for **Machine, Data and Learning** as part of the coursework. The tasks involve applying machine learning concepts such as **Gradient Descent**, **Bias-Variance Tradeoff**, **Model Complexity**, and **Irreducible Error** on a dataset.
 
 ## Tasks Covered
 - **Task 1**: Gradient Descent
